@@ -1,0 +1,5 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment"
+    android:name="com.example.artem.tp_android_project.HomePageFragment"
+    tools:layout="@layout/fragment_home_page" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
